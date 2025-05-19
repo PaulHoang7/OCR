@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+VENV/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Model weights and large files
+*.pt
+*.pkl
+*.pth
+*.onnx
+*.tflite
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (tùy chọn)
+.vscode/
+
+# Test results or temporary runs
+runs/
+datasets
